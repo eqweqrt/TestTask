@@ -2,13 +2,13 @@ Backend
 Докер не делал.
 Инструкция:
 
-1)Установить Open Server Panel.
+1)Установить OSPanel.
 
-2)В каталог "domains" копировать нашу папку "Project".
+2)В каталог "domains" копировать папку "Project".
 
 3)В настройках OSPanel -> Сервер сменить значение "Настройка использования переменной Path" на "Свой Path + userdata".
 
-4)Создать "path.txt" по пути "ospanel/userdata/config/" и внутри прописать путь до NodeJS.
+4)Создать "path.txt" по пути "ospanel/userdata/config/" и внутри указать путь до NodeJS.
 
 5)В настройках OSPanel -> Домены добавить домен приложения.
 
